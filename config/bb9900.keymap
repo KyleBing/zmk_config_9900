@@ -85,7 +85,7 @@
             bindings = <
                  &kp C_BRI_DN                                                                                        &kp C_BRI_UP
     &bt BT_SEL 0             &bt BT_SEL 1                             &td0                               &bt BT_SEL 2                     &bt BT_SEL 3
-    &none        &none       &kp UP      &sys_reset &ext_power EP_TOG &out OUT_TOG      &none            &kp C_VOL_DN    &kp C_VOL_UP     &none
+    &none        &none       &kp UP      &sys_reset &ext_power EP_TOG &none             &out OUT_TOG     &kp C_VOL_DN    &kp C_VOL_UP     &none
     &none        &kp LEFT    &kp DOWN    &kp RIGHT  &none             &none             &kp C_PREV       &kp C_PP        &kp C_NEXT       &kp BSPC
     &tog SYM     &bootloader &none       &none      &bl BL_DEC        &bl BL_TOG        &bl BL_INC       &none           &kp C_MUTE       &kp ENTER
     &kp LSHFT                &kp LALT                                 &kp SPACE                          &kp N2                           &tog UPPER

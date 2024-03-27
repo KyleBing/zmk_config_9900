@@ -74,10 +74,10 @@
         upper_layer {
 
             bindings = <
-                 &kp C_BRI_DN                                                                                       &mkp C_BRI_UP
+                 &kp C_BRI_DN                                                                                        &kp C_BRI_UP
     &bt BT_SEL 0             &bt BT_SEL 1                             &td0                           &bt BT_SEL 2                     &bt BT_SEL 3
-    &none        &none       &kp UP      &sys_reset &ext_power EP_TOG &none         &none            &mkp C_VOL_DN   &mkp C_VOL_UP    &none
-    &none        &kp LEFT    &kp DOWN    &kp RIGHT  &none             &none         &mkp C_PREV      &mkp C_PP       &mkp C_NEXT      &kp BSPC
+    &none        &none       &kp UP      &sys_reset &ext_power EP_TOG &none         &none            &kp C_VOL_DN    &kp C_VOL_UP     &none
+    &none        &kp LEFT    &kp DOWN    &kp RIGHT  &none             &none         &kp C_PREV       &kp C_PP        &kp C_NEXT       &kp BSPC
     &tog SYM     &bootloader &none       &none      &bl BL_DEC        &bl BL_TOG    &bl BL_INC       &none           &kp C_MUTE       &kp ENTER
     &kp LSHFT                &kp LALT                                 &hm OUT_TOG SPACE              &kp N2                           &tog UPPER
             >;

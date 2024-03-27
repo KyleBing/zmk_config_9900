@@ -62,7 +62,7 @@
     &kp TAB                  &kp LMETA                                &mkp LCLK                          &kp ESC                           &kp CLCK
     &kp Q        &kp W       &kp E       &kp R     &kp T              &kp Y             &kp U            &kp I            &kp O            &kp P
     &kp A        &kp S       &kp D       &kp F     &kp G              &kp H             &kp J            &kp K            &kp L            &kp BSPC
-    &tog SYM     &kp Z       &kp X       &kp C     &kp V              &kp B             &kp N            &kp M            &kp SEMI         &kp ENTER
+    &tog SYM     &kp Z       &kp X       &kp C     &kp V              &kp B             &kp N            &kp M            &kp DLLR         &kp ENTER
     &kp LSHFT                &kp LALT                                 &kp SPACE                          &kp N2                            &tog UPPER
             >;
         };

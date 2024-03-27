@@ -51,9 +51,9 @@
 
                  &mkp LCLK                                                                                             &mkp RCLK
     &kp TAB                  &kp LMETA                           &mkp LCLK                          &kp ESC                           &kp CLCK
-    &bhm HASH Q  &bhm N1 W   &bhm N2 E  &bhm N3 R  &bhm LPAR T   &bhm RPAR Y        &bhm UNDER U    &bhm MINUS I        &bhm PLUS O   &bhm AT P
-    &bhm STAR A  &bhm N4 S   &bhm N5 D  &bhm N6 F  &bhm SLASH G  &bhm COLON H       &bhm SEMI J     &bhm APOS K         &bhm DQT L    &kp BSPC
-    &tog SYM     &bhm N7 Z   &bhm N8 X  &bhm N9 C  &bhm QMARK V  &bhm EXCL B        &bhm COMMA N    &bhm DOT M          &kp SEMI      &kp ENTER
+    &kp Q        &kp W       &kp E       &kp R     &kp T         &kp Y             &kp U            &kp I            &kp O            &kp P
+    &kp A        &kp S       &kp D       &kp F     &kp G         &kp H             &kp J            &kp K            &kp L            &kp BSPC
+    &tog SYM     &kp Z       &kp X       &kp C     &kp V         &kp B             &kp N            &kp M            &kp SEMI         &kp ENTER
     &kp LSHFT                &kp LALT                            &kp SPACE                          &kp N2                            &tog UPPER
             >;
         };

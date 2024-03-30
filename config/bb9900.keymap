@@ -151,7 +151,7 @@
         media_layer {
             bindings = <
             //                  TOP LEFT BUTTON                                                                                          TOP RIGHT BUTTON
-                                &kp K_BACK                                                                                               &kp K_FORWARD
+                                &mkp LCLK                                                                                                &mkp RCLK
 
             //  PHONE                       BLACKBERRY                                TOUCH_PAD                          BACK                             HUNG_UP
                 &kp TAB                     &kp LMETA                                 &mkp LCLK                          &kp ESC                          &kp CLCK
@@ -177,7 +177,7 @@
         util_layer {
             bindings = <
             //                  TOP LEFT BUTTON                                                                                          TOP RIGHT BUTTON
-                                &kp C_BRI_DN                                                                                             &kp C_BRI_UP
+                                &mkp LCLK                                                                                                &mkp RCLK
 
             //  PHONE                       BLACKBERRY                                TOUCH_PAD                          BACK                             HUNG_UP
                 &bt BT_SEL 0                &bt BT_SEL 1                              &mkp LCLK                          &bt BT_SEL 2                     &bt BT_SEL 3

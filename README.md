@@ -10,10 +10,11 @@
 3. 媒体层：`方向键`、`屏幕亮度`、`音量上下`、`静音`、`上一曲`|`暂停`|`下一曲`、`PageUp`、`PageDown`、`Home`、`End`、`前进`、`后退`
 4. 功能层：`蓝牙设备切换`、`触控板开关`、`BootLoader` `固件升级`、`键盘灯控制`、`输出途径切换（蓝牙、USB）`、`键盘重启`
 
-![白-1-字母层](https://github.com/KyleBing/zmk_config_Q10/assets/12215982/3030e594-fc51-4b9c-9b35-2e2edc75c127)
-![白-2-符号层](https://github.com/KyleBing/zmk_config_Q10/assets/12215982/fd837de4-2b19-4c75-9b2c-049724544735)
-![白-3-媒体层](https://github.com/KyleBing/zmk_config_Q10/assets/12215982/38c8f2e9-380f-4a1d-83fe-880b3c633539)
-![白-4-功能层](https://github.com/KyleBing/zmk_config_Q10/assets/12215982/1f3c4856-fa8b-4076-90a6-ee1b21abf96f)
+![白-1-字母层](https://github.com/KyleBing/zmk_config_9900/assets/12215982/bdf7e6b6-431f-4758-b73a-2b96db4e4c83)
+![白-2-符号层](https://github.com/KyleBing/zmk_config_9900/assets/12215982/36d9222b-391f-40ba-af39-063bce28ca84)
+![白-3-媒体层](https://github.com/KyleBing/zmk_config_9900/assets/12215982/ad34c570-ef30-471e-a0ef-c104d56123cd)
+![白-4-功能层](https://github.com/KyleBing/zmk_config_9900/assets/12215982/8042bd25-1d4e-40b0-bf50-c2c291bff60d)
+
 
 
 ## 二、层级切换说明：
